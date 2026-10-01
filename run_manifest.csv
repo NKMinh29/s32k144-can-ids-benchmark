@@ -1,0 +1,1 @@
+run_id,model_id,input_kind,lpit_mode,core_hz,can_bitrate,compiler,optimization,elf_sha256,raw_log_path,raw_log_sha256,record_count,status
