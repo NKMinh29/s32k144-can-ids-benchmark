@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+data/raw/
+vendor/
+build/
